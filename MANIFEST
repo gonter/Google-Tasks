@@ -1,0 +1,10 @@
+Changes
+lib/Google/Tasks.pm
+Makefile.PL
+MANIFEST
+README.md
+t/00-load.t
+t/Tasks.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
