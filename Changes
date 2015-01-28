@@ -1,4 +1,7 @@
-Revision history for Google::Tasks
+Revision history for Google-Tasks
 
-1.00    Tue Jan  6 10:33:25 PST 2015
-        First version, released on an unsuspecting world.
+{{$NEXT}}
+    - Implementing use of Dist::Zilla.
+
+1.00  Tue Jan  6 10:33:25 PST 2015
+    - First version, released on an unsuspecting world.
