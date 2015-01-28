@@ -1,7 +1,9 @@
 Revision history for Google-Tasks
 
 {{$NEXT}}
+
+1.01      2015-01-28 14:29:49-08:00 America/Los_Angeles
     - Implementing use of Dist::Zilla.
 
-1.00  Tue Jan  6 10:33:25 PST 2015
+1.00      Tue Jan  6 10:33:25 PST 2015
     - First version, released on an unsuspecting world.
