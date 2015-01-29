@@ -414,6 +414,14 @@ __END__
 
 =pod
 
+=begin :badges
+
+=for markdown
+[![Build Status](https://travis-ci.org/gryphonshafer/Google-Tasks.svg)](https://travis-ci.org/gryphonshafer/Google-Tasks)
+[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Google-Tasks/badge.png)](https://coveralls.io/r/gryphonshafer/Google-Tasks)
+
+=end :badges
+
 =head1 SYNOPSIS
 
     use Google::Tasks;
@@ -475,14 +483,6 @@ could use quickly/easily myself. I'm only publishing this in case someone else
 might find it useful as-is. It's not well-tested and probably never will be.
 And Google could break this entire library by changing their JSON structure.
 Consequently, this module should probably not be used by anyone, ever.
-
-=begin :badges
-
-=for markdown
-[![Build Status](https://travis-ci.org/gryphonshafer/Google-Tasks.svg)](https://travis-ci.org/gryphonshafer/Google-Tasks)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Google-Tasks/badge.png)](https://coveralls.io/r/gryphonshafer/Google-Tasks)
-
-=end :badges
 
 =head1 LIBRARY METHODS AND ATTRIBUTES
 

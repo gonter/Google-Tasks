@@ -4,7 +4,10 @@ Google::Tasks - Manipulate Google/GMail Tasks
 
 # VERSION
 
-version 1.03
+version 1.04
+
+[![Build Status](https://travis-ci.org/gryphonshafer/Google-Tasks.svg)](https://travis-ci.org/gryphonshafer/Google-Tasks)
+[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Google-Tasks/badge.png)](https://coveralls.io/r/gryphonshafer/Google-Tasks)
 
 # SYNOPSIS
 
@@ -67,9 +70,6 @@ could use quickly/easily myself. I'm only publishing this in case someone else
 might find it useful as-is. It's not well-tested and probably never will be.
 And Google could break this entire library by changing their JSON structure.
 Consequently, this module should probably not be used by anyone, ever.
-
-[![Build Status](https://travis-ci.org/gryphonshafer/Google-Tasks.svg)](https://travis-ci.org/gryphonshafer/Google-Tasks)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Google-Tasks/badge.png)](https://coveralls.io/r/gryphonshafer/Google-Tasks)
 
 # LIBRARY METHODS AND ATTRIBUTES
 

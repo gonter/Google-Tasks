@@ -1,6 +1,7 @@
 Revision history for Google-Tasks
 
 {{$NEXT}}
+        - Moving up the CI badges in the README.md
 
 1.03      2015-01-28 20:20:42-08:00 America/Los_Angeles
         - Switching from using cpanfile to Makefile.PL for better TravisCI-ing-ness.
