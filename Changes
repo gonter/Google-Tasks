@@ -1,6 +1,8 @@
 Revision history for Google-Tasks
 
 {{$NEXT}}
+
+1.03      2015-01-28 20:20:42-08:00 America/Los_Angeles
         - Switching from using cpanfile to Makefile.PL for better TravisCI-ing-ness.
 
 1.02      2015-01-28 20:04:06-08:00 America/Los_Angeles
