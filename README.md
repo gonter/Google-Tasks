@@ -4,7 +4,7 @@ Google::Tasks - Manipulate Google/GMail Tasks
 
 # VERSION
 
-version 1.02
+version 1.03
 
 # SYNOPSIS
 
