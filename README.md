@@ -4,7 +4,7 @@ Google::Tasks - Manipulate Google/GMail Tasks
 
 # VERSION
 
-version 1.01
+version 1.02
 
 # SYNOPSIS
 
@@ -353,6 +353,8 @@ You can also look for additional information at:
 - [CPAN](http://search.cpan.org/dist/Google-Tasks)
 - [MetaCPAN](https://metacpan.org/pod/Google::Tasks)
 - [AnnoCPAN](http://annocpan.org/dist/Google-Tasks)
+- [Travis CI](https://travis-ci.org/gryphonshafer/Google-Tasks)
+- [Coveralls](https://coveralls.io/r/gryphonshafer/Google-Tasks)
 
 # AUTHOR
 
