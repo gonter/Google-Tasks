@@ -1,6 +1,8 @@
 Revision history for Google-Tasks
 
 {{$NEXT}}
+
+1.04      2015-01-28 20:34:06-08:00 America/Los_Angeles
         - Moving up the CI badges in the README.md
 
 1.03      2015-01-28 20:20:42-08:00 America/Los_Angeles
