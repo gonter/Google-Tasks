@@ -1,6 +1,8 @@
 Revision history for Google-Tasks
 
 {{$NEXT}}
+
+1.02      2015-01-28 20:04:06-08:00 America/Los_Angeles
         - Pre and post-build handling of cpanfile so TravisCI et al will work.
 
 1.01      2015-01-28 14:29:49-08:00 America/Los_Angeles
