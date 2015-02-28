@@ -769,6 +769,8 @@ You can also look for additional information at:
 * L<AnnoCPAN|http://annocpan.org/dist/Google-Tasks>
 * L<Travis CI|https://travis-ci.org/gryphonshafer/Google-Tasks>
 * L<Coveralls|https://coveralls.io/r/gryphonshafer/Google-Tasks>
+* L<CPANTS|http://cpants.cpanauthors.org/dist/Google-Tasks>
+* L<CPAN Testers|http://www.cpantesters.org/distro/G/Google-Tasks.html>
 
 =for Pod::Coverage BUILD is_authed json passwd ua user
 
