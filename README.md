@@ -4,7 +4,7 @@ Google::Tasks - Manipulate Google/GMail Tasks
 
 # VERSION
 
-version 1.04
+version 1.05
 
 [![Build Status](https://travis-ci.org/gryphonshafer/Google-Tasks.svg)](https://travis-ci.org/gryphonshafer/Google-Tasks)
 [![Coverage Status](https://coveralls.io/repos/gryphonshafer/Google-Tasks/badge.png)](https://coveralls.io/r/gryphonshafer/Google-Tasks)
@@ -355,10 +355,12 @@ You can also look for additional information at:
 - [AnnoCPAN](http://annocpan.org/dist/Google-Tasks)
 - [Travis CI](https://travis-ci.org/gryphonshafer/Google-Tasks)
 - [Coveralls](https://coveralls.io/r/gryphonshafer/Google-Tasks)
+- [CPANTS](http://cpants.cpanauthors.org/dist/Google-Tasks)
+- [CPAN Testers](http://www.cpantesters.org/distro/G/Google-Tasks.html)
 
 # AUTHOR
 
-Gryphon Shafer <gryphon@cpan.org>
+Gryphon Shafer &lt;gryphon@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
