@@ -1,6 +1,8 @@
 Revision history for Google-Tasks
 
 {{$NEXT}}
+
+1.05      2016-02-22 09:10:41-08:00 America/Los_Angeles
         - Patch to support Google's new two-page web sign-in process
 
 1.04      2015-01-28 20:34:06-08:00 America/Los_Angeles
