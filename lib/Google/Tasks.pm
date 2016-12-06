@@ -427,7 +427,7 @@ __END__
     use Google::Tasks;
 
     my $google_tasks = Google::Tasks->new();
-    $google_tasks->login( user => 'user', passwd => 'passwd' );
+    $google_tasks->login( 'user', 'passwd' );
 
     my $gt = Google::Tasks->new( user => 'user', passwd => 'passwd' );
 
@@ -502,7 +502,7 @@ and password, and if so provided, it will call C<login()> automatically.
 This method accepts a username and password for a valid/current GMail account,
 then attempts to authenticate the user and start up a session with Google Tasks.
 
-    $gt->login( user => 'user', passwd => 'passwd' );
+    $gt->login( 'user', 'passwd' );
 
 The method returns a reference to the object from which the call was made. And
 please note that the authentication takes place via a simple L<LWP::UserAgent>
